@@ -56,3 +56,9 @@ def main():
             else:
                 print(f"The result is {result:.2f}")
         
+ #If the user enters an invalid option
+        else:
+          print("Invalid Entry. Please choose a valid operation.")
+
+if __name__ == "__main__":
+    main()
