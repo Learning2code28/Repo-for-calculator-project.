@@ -1,4 +1,4 @@
-# Repo-for-calculator-project.
+#Calculator-project.
 #Code for my calculator project for week 8 task.
 
 # Simple calculator program that performs basic arithmetic operations.
